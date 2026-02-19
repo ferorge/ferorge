@@ -44,7 +44,8 @@ scripts de automatización.
 
 * Trisquel Ecne Server: Scripts para el despliegue, configuración y
 hardening automatizado de servidores [Trisquel][repo].
-[repo]: https://git.sobnix.ar/ferorge/trisquel-ecne-server/
+
+[repo]: https://git.sobnix.ar/ferorge/trisquel-ecne-server/ "Trisquel"
 
 ## Contacto
 * [~ferorge@Linkedin](https://www.linkedin.com/in/ferorge/)
