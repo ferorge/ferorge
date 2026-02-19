@@ -1,28 +1,52 @@
 # Hola, soy Fernando Orge
 
-**Analista Funcional Senior SAP QM | Control de Calidad | Linux & Automatización**
+Analista Funcional Senior SAP QM |  Administrador Unix-like   |  
+Automatización con Bash & Python | Endurecimiento de sistemas |  
+Entusiasta del software libre.
 
-Trabajo hace más de 15 años integrando procesos de **Calidad**, **SAP QM** y **administración de sistemas Linux/Unix**, combinando experiencia funcional y técnica para optimizar operaciones, reducir errores y automatizar tareas críticas.
+* Trabajo hace 8 años integrando procesos de calidad en SAP QM, combinando  
+experiencia funcional y técnica para optimizar operaciones, reducir errores  
+y automatizar tareas críticas.  
 
-### Stack principal
-- **SAP QM** (planificación, inspecciones, lotes, certificados, equipos de prueba)  
-- **Procesos de Control de Calidad** (PP‑MRP, MM‑PUR, MM‑IM)  
-- **Linux/Unix** (administración, seguridad, troubleshooting)  
-- **Automatización** con **bash** y **Python**  
-- Scripts, herramientas y utilidades para equipos de Calidad y Sistemas
+* Especialista en administración de sistemas y automatización con más de 15  
+años de experiencia práctica en la gestión de infraestructura soberana y  
+segura de entornos Unix-like.  
 
-### Repositorios destacados
-- **CuidAr** – Sistema de gestión de calidad (Python)  
-- **configApp** – Configuración centralizada de aplicaciones  
-- **Scripts y herramientas** para automatización y administración Linux  
+__Mi enfoque combina la rigurosidad de los procesos de negocios con la  
+administración, endurecimiento y automatización de sistemas Unix-like.__  
 
-### Qué vas a encontrar en este GitHub
-Proyectos orientados a:
-- Automatizar procesos para áreas de Calidad  
-- Mejorar flujos de trabajo en SAP QM  
-- Herramientas útiles para entornos Linux/Unix  
-- Utilidades y soluciones simples para problemas complejos  
+## Especialidades:
 
-### 📫 Contacto
-- LinkedIn: *https://ar.linkedin.com/in/ferorge*  
-- Email: *fernando.orge@tutamail.com*  
+### SAP
+
+* Planificación de la calidad (QM-PT) 
+* Inspección de calidad (QM-IM)
+* Control de calidad (QM-QC-AQC)
+* Certificados de calidad (QM-CA)
+* Gestión de equipos de prueba (QM-IT)
+* Control en logística (QM-PT-RP)
+* Lotes (LO-BM)
+* Sistema de gestión de documentos (CA-DMS)
+* Mantenimiento preventivo en PM (PM-PRM)
+* Planificación de necesidades de material (PP-MRP)
+* Compras en MM (MM-PUR)
+* Gestión de inventario en MM (MM-IM)
+
+### Administrador de sistemas
+* _Shell Scripting_: Automatización de tareas complejas y flujos de trabajo
+en Bash.
+* _OS Hardening_: Despliegue seguro de servidores (especializado en entornos
+GNU/Linux y BSD).
+* _Python for Infrastructure_: Desarrollo de herramientas de sistema y
+scripts de automatización.
+
+## Proyecto destacado:
+
+* Trisquel Ecne Server: Scripts para el despliegue, configuración y
+hardening automatizado de servidores [Trisquel]
+(https://git.sobnix.ar/ferorge/trisquel-ecne-server/).
+
+## Contacto
+* [~ferorge@Linkedin](https://www.linkedin.com/in/ferorge/)
+* [~ferorge@GitHub](https://github.com/ferorge/)
+* [~ferorge@fiverr](https://www.fiverr.com/ferorge/)
