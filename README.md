@@ -43,8 +43,8 @@ scripts de automatización.
 ## Proyecto destacado:
 
 * Trisquel Ecne Server: Scripts para el despliegue, configuración y
-hardening automatizado de servidores [Trisquel]
-(https://git.sobnix.ar/ferorge/trisquel-ecne-server/).
+hardening automatizado de servidores [Trisquel].
+[Trisquel]:https://git.sobnix.ar/ferorge/trisquel-ecne-server/
 
 ## Contacto
 * [~ferorge@Linkedin](https://www.linkedin.com/in/ferorge/)
